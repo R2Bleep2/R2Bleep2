@@ -1,1 +1,2 @@
-## The "Hello, world!" program in 
+## The "Hello, world!" program in GDScript.
+print('Hello, world!')
